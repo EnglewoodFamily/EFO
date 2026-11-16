@@ -20,6 +20,7 @@ Programs:
 
 - [Home](https://englewoodfamily.org/): mission, who we are, what we do, the school vision, and ways to partner
 - [Give](https://englewoodfamily.org/donate/): secure online giving, plus mail, PayPal, Zelle, Venmo, Facebook, and stock or securities gifts
+- [Update your monthly gift](https://englewoodfamily.org/donate/update/): monthly partners can change the amount, payment method, or charge date of a recurring gift, or pause it
 - [Newsletter signup](https://englewoodfamily.org/signup/): stories and ministry updates from the neighborhood
 - [Englewood Works](https://englewoodfamily.org/englewoodworks/): the after-school club, its daily rhythm, and sponsorship levels
 - [Archer Christian Academy](https://archerchristian.org/): the school's own website
